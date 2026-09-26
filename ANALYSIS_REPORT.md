@@ -1,10 +1,10 @@
 # Indian IT Sector — Multi-Company Financial Health Comparison
 ### Detailed Analysis Report
 
-**Author:** Srishti Kumari
-**Tools:** SQL (PostgreSQL), Power BI, DAX, Excel
-**Period Covered:** FY22 – FY26 (5 years)
-**Companies:** TCS, Infosys, Wipro, HCL Technologies, Tech Mahindra
+**Author:** Srishti Kumari   
+**Tools:** SQL (PostgreSQL), Power BI, DAX, Excel   
+**Period Covered:** FY22 – FY26 (5 years)          
+**Companies:** TCS, Infosys, Wipro, HCL Technologies, Tech Mahindra     
 
 ---
 
